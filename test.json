@@ -1,0 +1,690 @@
+[
+  {
+    "name": "Lemon Garlic Grilled Chicken",
+    "type": "meat",
+    "carbSource": "rice",
+    "fat": 3,
+    "vegetableSource": "zucchini, bell peppers",
+    "ingredients": [
+      "2 chicken breasts",
+      "2 tbsp olive oil",
+      "2 cloves garlic, minced",
+      "1 lemon, juiced",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper",
+      "1 zucchini, sliced",
+      "1 bell pepper, sliced",
+      "1 cup cooked rice"
+    ],
+    "directions": [
+      "Marinate chicken with olive oil, garlic, lemon juice, salt, and pepper for 30 minutes.",
+      "Grill chicken over medium heat for 5-6 minutes per side until cooked through.",
+      "Sauté zucchini and bell pepper until tender.",
+      "Serve grilled chicken with vegetables and cooked rice."
+    ]
+  },
+  {
+    "name": "Shrimp Stir-Fry with Quinoa",
+    "type": "fish",
+    "carbSource": "quinoa",
+    "fat": 4,
+    "vegetableSource": "broccoli, carrots",
+    "ingredients": [
+      "1 cup cooked quinoa",
+      "10 shrimp, peeled and deveined",
+      "1 tbsp sesame oil",
+      "1 cup broccoli florets",
+      "1/2 cup sliced carrots",
+      "2 tbsp coconut aminos",
+      "1 clove garlic, minced",
+      "1 tsp ginger, minced"
+    ],
+    "directions": [
+      "Heat sesame oil in a pan over medium heat.",
+      "Sauté garlic and ginger until fragrant.",
+      "Add shrimp and cook for 2-3 minutes per side.",
+      "Add broccoli and carrots, stir-fry for 4-5 minutes.",
+      "Stir in coconut aminos and mix well.",
+      "Serve over cooked quinoa."
+    ]
+  },
+  {
+    "name": "Beef and Sweet Potato Skillet",
+    "type": "fish",
+    "carbSource": "sweet potatoes",
+    "fat": 5,
+    "vegetableSource": "onions, spinach",
+    "ingredients": [
+      "200g ground beef",
+      "1 sweet potato, diced",
+      "1/2 onion, chopped",
+      "1 tbsp olive oil",
+      "1 cup spinach",
+      "1/2 tsp paprika",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat olive oil in a skillet over medium heat.",
+      "Cook onions until softened, then add ground beef.",
+      "Cook beef until browned, then add diced sweet potatoes.",
+      "Cover and cook for 10-12 minutes until potatoes are tender.",
+      "Stir in spinach, season with paprika, salt, and pepper.",
+      "Serve hot."
+    ]
+  },
+  {
+    "name": "Spaghetti Squash with Turkey Bolognese",
+    "type": "meat",
+    "carbSource": "spaghetti squash",
+    "fat": 4,
+    "vegetableSource": "tomatoes, onions",
+    "ingredients": [
+      "1 spaghetti squash",
+      "200g ground turkey",
+      "1 cup tomato sauce",
+      "1/2 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tbsp olive oil",
+      "1 tsp oregano",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Cut spaghetti squash in half, bake at 375°F (190°C) for 40 minutes.",
+      "Scoop out strands with a fork.",
+      "Heat olive oil in a pan, sauté onions and garlic.",
+      "Add ground turkey, cook until browned.",
+      "Stir in tomato sauce, oregano, salt, and pepper.",
+      "Simmer for 10 minutes, then serve over spaghetti squash."
+    ]
+  },
+  {
+    "name": "Grilled Salmon with Roasted Vegetables",
+    "type": "fish",
+    "carbSource": "potatoes",
+    "fat": 4,
+    "vegetableSource": "asparagus, cherry tomatoes",
+    "ingredients": [
+      "1 salmon fillet",
+      "1 tbsp olive oil",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper",
+      "1 cup asparagus",
+      "1/2 cup cherry tomatoes",
+      "1 medium potato, diced"
+    ],
+    "directions": [
+      "Preheat oven to 400°F (200°C).",
+      "Toss potatoes, asparagus, and tomatoes with olive oil, salt, and pepper.",
+      "Roast vegetables for 25 minutes.",
+      "Grill salmon for 4-5 minutes per side.",
+      "Serve with roasted vegetables."
+    ]
+  },
+  {
+    "name": "Zucchini Noodles with Chicken",
+    "type": "meat",
+    "carbSource": "zucchini",
+    "fat": 3,
+    "vegetableSource": "zucchini, tomatoes",
+    "ingredients": [
+      "2 zucchinis, spiralized",
+      "1 chicken breast, sliced",
+      "1 tbsp olive oil",
+      "1/2 cup cherry tomatoes, halved",
+      "1 clove garlic, minced",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat olive oil in a pan over medium heat.",
+      "Cook chicken until golden brown.",
+      "Add garlic and cherry tomatoes, cook for 2 minutes.",
+      "Stir in zucchini noodles and cook for another 2 minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "name": "Quinoa and Black Bean Bowl",
+    "type": "vegetarian",
+    "carbSource": "quinoa",
+    "fat": 2,
+    "vegetableSource": "bell peppers, corn",
+    "ingredients": [
+      "1 cup cooked quinoa",
+      "1/2 cup black beans",
+      "1/2 cup corn",
+      "1/2 cup diced bell peppers",
+      "1 tbsp lime juice",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Mix all ingredients in a bowl.",
+      "Serve warm or cold."
+    ]
+  },
+  {
+    "name": "Eggplant and Chickpea Curry",
+    "type": "vegetarian",
+    "carbSource": "rice",
+    "fat": 5,
+    "vegetableSource": "eggplant, tomatoes",
+    "ingredients": [
+      "1 eggplant, diced",
+      "1/2 cup chickpeas",
+      "1 cup diced tomatoes",
+      "1/2 onion, chopped",
+      "1 tbsp coconut oil",
+      "1/2 tsp cumin",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat coconut oil in a pan, sauté onions.",
+      "Add eggplant and cook for 5 minutes.",
+      "Stir in chickpeas, tomatoes, and cumin.",
+      "Simmer for 15 minutes and serve over rice."
+    ]
+  },
+  {
+    "name": "Stuffed Peppers with Ground Beef",
+    "type": "meat",
+    "carbSource": "rice",
+    "fat": 4,
+    "vegetableSource": "bell peppers, onions",
+    "ingredients": [
+      "2 bell peppers, halved",
+      "200g ground beef",
+      "1/2 cup cooked rice",
+      "1/2 onion, chopped",
+      "1 cup tomato sauce",
+      "1 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "Heat olive oil in a pan, cook onions and beef until browned.",
+      "Stir in cooked rice and tomato sauce.",
+      "Stuff bell peppers with the mixture.",
+      "Bake for 25 minutes and serve."
+    ]
+  },
+  {
+    "name": "Cabbage and Chicken Stir-Fry",
+    "type": "meat",
+    "carbSource": "rice",
+    "fat": 3,
+    "vegetableSource": "cabbage, carrots",
+    "ingredients": [
+      "1 cup shredded cabbage",
+      "1 carrot, sliced",
+      "1 chicken breast, sliced",
+      "1 tbsp sesame oil",
+      "1 clove garlic, minced",
+      "2 tbsp coconut aminos",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat sesame oil in a pan over medium heat.",
+      "Cook chicken until golden brown.",
+      "Add cabbage, carrots, and garlic, stir-fry for 5 minutes.",
+      "Stir in coconut aminos, cook for 2 more minutes, and serve over rice."
+    ]
+  },
+  {
+    "name": "Garlic Lime Chicken with Cauliflower Rice",
+    "type": "meat",
+    "carbSource": "cauliflower rice",
+    "fat": 3,
+    "vegetableSource": "cauliflower, bell peppers",
+    "ingredients": [
+      "2 chicken breasts",
+      "2 tbsp olive oil",
+      "1 lime, juiced",
+      "2 cloves garlic, minced",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper",
+      "1 cup cauliflower rice",
+      "1/2 cup diced bell peppers"
+    ],
+    "directions": [
+      "Marinate chicken in olive oil, lime juice, garlic, salt, and pepper for 30 minutes.",
+      "Grill or pan-fry chicken for 5-6 minutes per side until cooked through.",
+      "Sauté cauliflower rice and bell peppers until tender.",
+      "Serve chicken over cauliflower rice."
+    ]
+  },
+  {
+    "name": "Beef and Broccoli Stir-Fry",
+    "type": "meat",
+    "carbSource": "rice",
+    "fat": 4,
+    "vegetableSource": "broccoli, onions",
+    "ingredients": [
+      "200g beef strips",
+      "1 tbsp sesame oil",
+      "1 cup broccoli florets",
+      "1/2 onion, sliced",
+      "2 tbsp coconut aminos",
+      "1 clove garlic, minced",
+      "1 tsp ginger, minced",
+      "1 cup cooked rice"
+    ],
+    "directions": [
+      "Heat sesame oil in a pan over medium heat.",
+      "Sauté garlic and ginger until fragrant.",
+      "Add beef strips and cook for 3-4 minutes until browned.",
+      "Add broccoli and onions, stir-fry for 4-5 minutes.",
+      "Stir in coconut aminos and mix well.",
+      "Serve over cooked rice."
+    ]
+  },
+  {
+    "name": "Baked Cod with Roasted Vegetables",
+    "type": "fish",
+    "carbSource": "potatoes",
+    "fat": 3,
+    "vegetableSource": "zucchini, tomatoes",
+    "ingredients": [
+      "1 cod fillet",
+      "1 tbsp olive oil",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper",
+      "1 zucchini, sliced",
+      "1/2 cup cherry tomatoes",
+      "1 medium potato, diced"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "Toss potatoes, zucchini, and tomatoes with olive oil, salt, and pepper.",
+      "Place cod fillet on a baking sheet and season.",
+      "Bake for 20 minutes or until fish is flaky.",
+      "Serve with roasted vegetables."
+    ]
+  },
+  {
+    "name": "Turkey and Zucchini Meatballs",
+    "type": "meat",
+    "carbSource": "quinoa",
+    "fat": 4,
+    "vegetableSource": "zucchini, onions",
+    "ingredients": [
+      "200g ground turkey",
+      "1 zucchini, grated",
+      "1/2 onion, finely chopped",
+      "1 clove garlic, minced",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper",
+      "1 tbsp olive oil",
+      "1 cup cooked quinoa"
+    ],
+    "directions": [
+      "Mix ground turkey, zucchini, onion, garlic, salt, and pepper.",
+      "Form into meatballs and bake at 375°F (190°C) for 20 minutes.",
+      "Heat olive oil in a pan, lightly sauté the meatballs.",
+      "Serve over cooked quinoa."
+    ]
+  },
+  {
+    "name": "Salmon and Avocado Bowl",
+    "type": "fish",
+    "carbSource": "rice",
+    "fat": 5,
+    "vegetableSource": "avocado, cucumber",
+    "ingredients": [
+      "1 salmon fillet",
+      "1 tbsp olive oil",
+      "1/2 avocado, sliced",
+      "1/2 cucumber, sliced",
+      "1 cup cooked rice",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper"
+    ],
+    "directions": [
+      "Season salmon with salt and pepper, then pan-fry or bake until cooked through.",
+      "Slice avocado and cucumber.",
+      "Serve salmon over cooked rice with avocado and cucumber on the side."
+    ]
+  },
+  {
+    "name": "Stuffed Zucchini Boats",
+    "type": "meat",
+    "carbSource": "quinoa",
+    "fat": 3,
+    "vegetableSource": "zucchini, tomatoes",
+    "ingredients": [
+      "2 zucchinis, halved and hollowed",
+      "200g ground beef",
+      "1 cup diced tomatoes",
+      "1/2 onion, chopped",
+      "1 tbsp olive oil",
+      "1 cup cooked quinoa",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "Heat olive oil in a pan, cook onions and ground beef until browned.",
+      "Stir in tomatoes and cooked quinoa.",
+      "Stuff the mixture into zucchini halves.",
+      "Bake for 20 minutes and serve."
+    ]
+  },
+  {
+    "name": "Eggplant and Tomato Stew",
+    "type": "vegetarian",
+    "carbSource": "rice",
+    "fat": 4,
+    "vegetableSource": "eggplant, tomatoes",
+    "ingredients": [
+      "1 eggplant, diced",
+      "1 cup diced tomatoes",
+      "1/2 onion, chopped",
+      "1 tbsp coconut oil",
+      "1 clove garlic, minced",
+      "Salt and pepper to taste",
+      "1 cup cooked rice"
+    ],
+    "directions": [
+      "Heat coconut oil in a pan over medium heat.",
+      "Sauté garlic and onions until soft.",
+      "Add diced eggplant and cook for 5 minutes.",
+      "Stir in tomatoes and simmer for 15 minutes.",
+      "Serve over cooked rice."
+    ]
+  },
+  {
+    "name": "Grilled Chicken Salad",
+    "type": "meat",
+    "carbSource": "quinoa",
+    "fat": 2,
+    "vegetableSource": "lettuce, tomatoes, cucumber",
+    "ingredients": [
+      "1 grilled chicken breast, sliced",
+      "1 cup lettuce",
+      "1/2 cup cherry tomatoes, halved",
+      "1/2 cucumber, sliced",
+      "1 cup cooked quinoa",
+      "1 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Grill chicken until fully cooked and slice.",
+      "Mix lettuce, cherry tomatoes, cucumber, and quinoa in a bowl.",
+      "Drizzle with olive oil and lemon juice.",
+      "Top with grilled chicken and serve."
+    ]
+  },
+  {
+    "name": "Spicy Shrimp with Cauliflower Rice",
+    "type": "fish",
+    "carbSource": "cauliflower rice",
+    "fat": 5,
+    "vegetableSource": "bell peppers, onions",
+    "ingredients": [
+      "10 shrimp, peeled and deveined",
+      "1 tbsp sesame oil",
+      "1/2 tsp chili flakes",
+      "1 bell pepper, sliced",
+      "1/2 onion, sliced",
+      "1 cup cauliflower rice",
+      "2 tbsp coconut aminos",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat sesame oil in a pan over medium heat.",
+      "Sauté shrimp with chili flakes for 2-3 minutes per side.",
+      "Add bell peppers and onions, stir-fry for 4-5 minutes.",
+      "Stir in coconut aminos and mix well.",
+      "Serve over cauliflower rice."
+    ]
+  },
+  {
+    "name": "Lentil and Spinach Stew",
+    "type": "vegetarian",
+    "carbSource": "quinoa",
+    "fat": 3,
+    "vegetableSource": "spinach, carrots",
+    "ingredients": [
+      "1/2 cup lentils",
+      "1 cup spinach",
+      "1/2 cup diced carrots",
+      "1/2 onion, chopped",
+      "1 tbsp olive oil",
+      "2 cups vegetable broth",
+      "Salt and pepper to taste",
+      "1 cup cooked quinoa"
+    ],
+    "directions": [
+      "Heat olive oil in a pot over medium heat.",
+      "Sauté onions and carrots until soft.",
+      "Add lentils and vegetable broth, bring to a boil.",
+      "Simmer for 20 minutes, then stir in spinach.",
+      "Serve over cooked quinoa."
+    ]
+  },
+  {
+    "name": "Sweet Potato and Black Bean Chili",
+    "type": "vegetarian",
+    "carbSource": "sweet potato",
+    "fat": 3,
+    "vegetableSource": "tomatoes, bell peppers",
+    "ingredients": [
+      "1 large sweet potato, diced",
+      "1 can black beans, drained",
+      "1 cup diced tomatoes",
+      "1/2 onion, chopped",
+      "1 bell pepper, chopped",
+      "2 cloves garlic, minced",
+      "1 tbsp olive oil",
+      "1 tsp cumin",
+      "1/2 tsp chili powder",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat olive oil in a pot over medium heat.",
+      "Sauté onions, garlic, and bell peppers for 3-4 minutes.",
+      "Add sweet potato, diced tomatoes, and spices.",
+      "Simmer for 20 minutes until potatoes are tender.",
+      "Stir in black beans and cook for another 5 minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "name": "Zucchini Noodles with Avocado Pesto",
+    "type": "vegetarian",
+    "carbSource": "zucchini",
+    "fat": 4,
+    "vegetableSource": "zucchini, basil",
+    "ingredients": [
+      "2 zucchinis, spiralized",
+      "1 avocado",
+      "1/2 cup fresh basil leaves",
+      "1 clove garlic",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Blend avocado, basil, garlic, olive oil, lemon juice, salt, and pepper until smooth.",
+      "Toss with spiralized zucchini noodles.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "name": "Chickpea and Spinach Stew",
+    "type": "vegetarian",
+    "carbSource": "quinoa",
+    "fat": 3,
+    "vegetableSource": "spinach, tomatoes",
+    "ingredients": [
+      "1 can chickpeas, drained",
+      "1 cup diced tomatoes",
+      "2 cups fresh spinach",
+      "1/2 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tbsp olive oil",
+      "1/2 tsp cumin",
+      "1/2 tsp paprika",
+      "Salt and pepper to taste",
+      "1 cup cooked quinoa"
+    ],
+    "directions": [
+      "Heat olive oil in a pot over medium heat.",
+      "Sauté onions and garlic for 3-4 minutes.",
+      "Add diced tomatoes, chickpeas, and spices.",
+      "Simmer for 15 minutes.",
+      "Stir in fresh spinach and cook for 2 minutes.",
+      "Serve over cooked quinoa."
+    ]
+  },
+  {
+    "name": "Stuffed Bell Peppers with Lentils",
+    "type": "vegetarian",
+    "carbSource": "quinoa",
+    "fat": 3,
+    "vegetableSource": "bell peppers, onions",
+    "ingredients": [
+      "2 bell peppers, halved and hollowed",
+      "1/2 cup cooked lentils",
+      "1/2 cup cooked quinoa",
+      "1/2 onion, chopped",
+      "1 tbsp olive oil",
+      "1 clove garlic, minced",
+      "1/2 tsp cumin",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).",
+      "Sauté onion and garlic in olive oil.",
+      "Mix with lentils, quinoa, and spices.",
+      "Stuff bell peppers with the mixture.",
+      "Bake for 20 minutes and serve."
+    ]
+  },
+  {
+    "name": "Mushroom and Cauliflower Stir-Fry",
+    "type": "vegetarian",
+    "carbSource": "cauliflower rice",
+    "fat": 4,
+    "vegetableSource": "mushrooms, onions",
+    "ingredients": [
+      "1 cup mushrooms, sliced",
+      "1/2 onion, chopped",
+      "1 cup cauliflower rice",
+      "1 tbsp sesame oil",
+      "2 tbsp coconut aminos",
+      "1 clove garlic, minced",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat sesame oil in a pan over medium heat.",
+      "Sauté garlic, onions, and mushrooms for 5 minutes.",
+      "Add cauliflower rice and coconut aminos.",
+      "Cook for another 5 minutes and serve."
+    ]
+  },
+  {
+    "name": "Butternut Squash Soup",
+    "type": "vegetarian",
+    "carbSource": "butternut squash",
+    "fat": 3,
+    "vegetableSource": "carrots, onions",
+    "ingredients": [
+      "2 cups butternut squash, diced",
+      "1 carrot, chopped",
+      "1/2 onion, chopped",
+      "2 cups vegetable broth",
+      "1 tbsp olive oil",
+      "1/2 tsp cumin",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat olive oil in a pot over medium heat.",
+      "Sauté onions and carrots for 5 minutes.",
+      "Add butternut squash and vegetable broth.",
+      "Simmer for 20 minutes until soft.",
+      "Blend until smooth and serve."
+    ]
+  },
+  {
+    "name": "Cabbage and Carrot Slaw",
+    "type": "vegetarian",
+    "carbSource": "none",
+    "fat": 2,
+    "vegetableSource": "cabbage, carrots",
+    "ingredients": [
+      "1 cup shredded cabbage",
+      "1/2 cup shredded carrots",
+      "1 tbsp olive oil",
+      "1 tbsp apple cider vinegar",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Toss cabbage and carrots in a bowl.",
+      "Drizzle with olive oil and apple cider vinegar.",
+      "Season with salt and pepper.",
+      "Serve fresh."
+    ]
+  },
+  {
+    "name": "Balsamic Roasted Brussels Sprouts",
+    "type": "vegetarian",
+    "carbSource": "none",
+    "fat": 4,
+    "vegetableSource": "Brussels sprouts",
+    "ingredients": [
+      "2 cups Brussels sprouts, halved",
+      "1 tbsp olive oil",
+      "1 tbsp balsamic vinegar",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Preheat oven to 400°F (200°C).",
+      "Toss Brussels sprouts with olive oil and balsamic vinegar.",
+      "Season with salt and pepper.",
+      "Roast for 20-25 minutes and serve."
+    ]
+  },
+  {
+    "name": "Carrot and Lentil Soup",
+    "type": "vegetarian",
+    "carbSource": "lentils",
+    "fat": 3,
+    "vegetableSource": "carrots, onions",
+    "ingredients": [
+      "2 carrots, chopped",
+      "1/2 cup red lentils",
+      "1/2 onion, chopped",
+      "2 cups vegetable broth",
+      "1 tbsp olive oil",
+      "1/2 tsp cumin",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Heat olive oil in a pot over medium heat.",
+      "Sauté onions and carrots for 5 minutes.",
+      "Add lentils and vegetable broth.",
+      "Simmer for 20 minutes until lentils are soft.",
+      "Blend until smooth and serve."
+    ]
+  },
+  {
+    "name": "Grilled Portobello Mushrooms with Quinoa",
+    "type": "vegetarian",
+    "carbSource": "quinoa",
+    "fat": 4,
+    "vegetableSource": "mushrooms, spinach",
+    "ingredients": [
+      "2 Portobello mushrooms",
+      "1 tbsp olive oil",
+      "1 cup cooked quinoa",
+      "1/2 cup spinach",
+      "1/2 tsp garlic powder",
+      "Salt and pepper to taste"
+    ],
+    "directions": [
+      "Preheat grill to medium heat.",
+      "Brush Portobello mushrooms with olive oil, garlic powder, salt, and pepper.",
+      "Grill for 5 minutes per side.",
+      "Serve with cooked quinoa and fresh spinach."
+    ]
+  }
+]
