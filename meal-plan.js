@@ -5,7 +5,7 @@ window.previousMealPlan = [];
 // Fetch the meal library from the JSON file
 async function fetchMealLibrary() {
   try {
-    const response = await fetch('mealLibrary.json');
+    const response = await fetch('test.json');
     if (!response.ok) {
       throw new Error('Failed to load meal library');
     }
